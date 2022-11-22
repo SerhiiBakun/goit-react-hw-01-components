@@ -5,7 +5,7 @@ export const Container = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 18px;
+  font-size: ${p => p.theme.fontSizes.m};
   color: #010101;
   background-color: #aed5df;
 `;
