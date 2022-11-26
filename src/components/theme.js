@@ -3,9 +3,9 @@ export const theme = {
     text: '#000',
     background: '#aed5df',
     white: '#fff',
-    primary: '',
-    secondary: 'grey',
-    accent: '',
+    secondary: '#9eacad',
+    grey: '#d4d3d3',
+    greyLight: '#d8e3e6',
   },
   space: [0, 2, 4, 16, 32, 64, 128, 256],
   fonts: {
@@ -30,7 +30,7 @@ export const theme = {
   },
   borders: {
     none: 'none',
-    normal: '1px solid',
+    normal: '2px solid',
   },
   radii: {
     none: 'none',
